@@ -1,0 +1,42 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <style>
+    img {
+        width: 640px;
+    }
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+  </style>
+</head>
+
+<body>
+<table>
+    <thead>
+        <tr>
+            <th>Extracted Time</th>
+            <th>Frame</th>            
+            <th>Text</th>
+            <th>Sub Time</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        {% for f in frames %}
+        <tr>
+            <td>
+                {{ f.extracted }}<br>
+                ({{ f.target }})
+            </td>
+            <td><img src='{{ f.path }}'></td>
+            <td>{{ f.text }}</td>
+            <td>{{ f.sub }}</td>            
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+</body>

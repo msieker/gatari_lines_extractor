@@ -1,0 +1,15 @@
+Dialogue: 1,0:01:33.50,0:01:34.67,AnimationNumberWhole,,0000,0000,0000,,{\blur0.5\an7}Animation Number 111
+Dialogue: 0,0:01:48.64,0:01:48.81,BlinkingShit,,0000,0000,0000,,{\blur0.5\pos(960,358.5)}Red scene
+Dialogue: 0,0:01:48.64,0:01:48.81,AnimationNumber,,0000,0000,0000,,{\blur0.5\pos(960,948)\bord0}Animation Number 'none'
+Dialogue: 1,0:01:48.81,0:01:49.94,BlinkingShit,,0000,0000,0000,,{\pos(1062,633)\blur1\fs34.5\c&HA09DA7&}hi.
+Dialogue: 1,0:01:48.81,0:01:49.94,BlinkingShit,,0000,0000,0000,,{\c&HA09DA7&\pos(1062,738)\blur1\fs34.5}ta.
+Dialogue: 1,0:01:48.81,0:01:49.94,BlinkingShit,,0000,0000,0000,,{\c&HA09DA7&\pos(1062,861)\blur1\fs34.5}gi.
+Dialogue: 0,0:02:02.24,0:02:02.41,BlinkingShit,,0000,0000,0000,,{\blur0.5\pos(960,358.5)}Black scene
+Dialogue: 0,0:02:02.24,0:02:02.41,AnimationNumber,,0000,0000,0000,,{\blur0.5\pos(960,948)\bord0}Animation Number 'none'
+Dialogue: 0,0:02:05.33,0:02:05.49,BlinkingShit,,0000,0000,0000,,{\blur0.5\pos(960,358.5)}Black scene
+Dialogue: 0,0:02:05.33,0:02:05.49,AnimationNumber,,0000,0000,0000,,{\blur0.5\pos(960,948)\bord0}Animation Number 'none'
+Dialogue: 0,0:02:06.25,0:02:06.41,BlinkingShit,,0000,0000,0000,,{\blur0.5\pos(960,358.5)}Black scene
+Dialogue: 0,0:02:06.25,0:02:06.41,AnimationNumber,,0000,0000,0000,,{\blur0.5\pos(960,948)\bord0}Animation Number 'none'
+Dialogue: 10,0:02:16.63,0:02:19.66,Default,,0000,0000,0000,,Not ignoring her was the right decision... I think.
+Dialogue: 10,0:02:21.76,0:02:24.40,Default,,0000,0000,0000,,No, maybe I'm wrong.
+Dialogue: 10,0:02:24.93,0:02:25.93,Default,,0000,0000,0000,,Why, you ask?

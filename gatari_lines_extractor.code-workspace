@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.linting.enabled": true,
+		"python.linting.mypyEnabled": true,
+		"python.linting.pylintEnabled": true,
+		"cSpell.words": [
+			"Bakemonogatari",
+			"buffersink",
+			"ceaf",
+			"Coalgirls",
+			"deadsnakes",
+			"fansubbers",
+			"Flac",
+			"fontconfig",
+			"gatari",
+			"Hanamonogatari",
+			"hhmmssff",
+			"iname",
+			"Kabukimonogatari",
+			"Kizu",
+			"Kizumonogatari",
+			"Koimonogatari",
+			"Koyomimonogatari",
+			"mediainfo",
+			"mkvextract",
+			"mkvmerge",
+			"mkvtoolnix",
+			"Monogatari",
+			"mypy",
+			"Nekomonogatari",
+			"Nisemonogatari",
+			"Onimonogatari",
+			"Otorimonogatari",
+			"Owari",
+			"Owarimonogatari",
+			"pylint",
+			"Shiro",
+			"tqdm",
+			"Tsukimonogatari",
+			"venv",
+			"Zoku"
+		]
+	}
+}

@@ -1,0 +1,69 @@
+Dialogue: 10,0:17:23.75,0:17:25.54,Default,,0000,0000,0000,,You should be the one thanking me.
+Dialogue: 0,0:17:23.86,0:17:28.03,Chuj,,0000,0000,0000,,{\fad(700,700)\move(1648.5,651,1479,690,0,4155)}Body
+Dialogue: 0,0:17:23.86,0:17:28.03,Chuj,,0000,0000,0000,,{\fad(700,700)\move(1858.5,1054.5,1708.5,1072.5,0,4155)}Bone
+Dialogue: 0,0:17:24.61,0:17:24.65,block,,0000,0000,0000,,{\pos(1409.835022,822.780029)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:24.65,0:17:24.69,block,,0000,0000,0000,,{\pos(1410.719971,820.559967)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:24.69,0:17:24.74,block,,0000,0000,0000,,{\pos(1410.300018,818.339996)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:24.74,0:17:24.78,block,,0000,0000,0000,,{\pos(1409.339996,816.120026)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:24.78,0:17:24.82,block,,0000,0000,0000,,{\pos(1409.579956,813.899963)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:24.82,0:17:24.86,block,,0000,0000,0000,,{\pos(1410.585022,811.679993)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:24.86,0:17:24.90,block,,0000,0000,0000,,{\pos(1410.524963,809.460022)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:24.90,0:17:24.95,block,,0000,0000,0000,,{\pos(1409.504974,807.23996)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:24.95,0:17:24.99,block,,0000,0000,0000,,{\pos(1409.38504,805.019989)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:24.99,0:17:25.03,block,,0000,0000,0000,,{\pos(1410.375,802.800018)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.03,0:17:25.07,block,,0000,0000,0000,,{\pos(1410.675018,800.579956)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.07,0:17:25.11,block,,0000,0000,0000,,{\pos(1409.745026,798.359985)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.11,0:17:25.15,block,,0000,0000,0000,,{\pos(1409.280029,796.140015)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.15,0:17:25.20,block,,0000,0000,0000,,{\pos(1410.120026,793.920044)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.20,0:17:25.24,block,,0000,0000,0000,,{\pos(1410.75,791.699982)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.24,0:17:25.28,block,,0000,0000,0000,,{\pos(1410.015015,789.480011)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.28,0:17:25.32,block,,0000,0000,0000,,{\pos(1409.25,787.26004)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.32,0:17:25.36,block,,0000,0000,0000,,{\pos(1409.850037,785.039978)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.36,0:17:25.40,block,,0000,0000,0000,,{\pos(1410.719971,782.820007)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.40,0:17:25.45,block,,0000,0000,0000,,{\pos(1410.269989,780.600037)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.45,0:17:25.49,block,,0000,0000,0000,,{\pos(1409.324982,778.379974)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.49,0:17:25.53,block,,0000,0000,0000,,{\pos(1409.609985,776.160004)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.53,0:17:25.57,block,,0000,0000,0000,,{\pos(1410.600037,773.940033)\fnFawn Script\fs60}Weight
+Dialogue: 10,0:17:25.54,0:17:27.03,Default,,0000,0000,0000,,I don't get that.
+Dialogue: 0,0:17:25.57,0:17:25.61,block,,0000,0000,0000,,{\pos(1410.51004,771.719971)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.61,0:17:25.65,block,,0000,0000,0000,,{\pos(1409.48996,769.5)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.65,0:17:25.70,block,,0000,0000,0000,,{\pos(1409.399963,767.279984)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.70,0:17:25.74,block,,0000,0000,0000,,{\pos(1410.405029,765.060013)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.74,0:17:25.78,block,,0000,0000,0000,,{\pos(1410.675018,762.839996)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.78,0:17:25.82,block,,0000,0000,0000,,{\pos(1409.730011,760.61998)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.82,0:17:25.86,block,,0000,0000,0000,,{\pos(1409.280029,758.400009)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.86,0:17:25.90,block,,0000,0000,0000,,{\pos(1410.149963,756.179993)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.90,0:17:25.95,block,,0000,0000,0000,,{\pos(1410.75,753.960022)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.95,0:17:25.99,block,,0000,0000,0000,,{\pos(1409.984985,751.740005)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:25.99,0:17:26.03,block,,0000,0000,0000,,{\pos(1409.25,749.519989)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.03,0:17:26.07,block,,0000,0000,0000,,{\pos(1409.879974,747.300018)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.07,0:17:26.11,block,,0000,0000,0000,,{\pos(1410.719971,745.080002)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.11,0:17:26.15,block,,0000,0000,0000,,{\pos(1410.254974,742.859985)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.15,0:17:26.20,block,,0000,0000,0000,,{\pos(1409.324982,740.640015)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.20,0:17:26.24,block,,0000,0000,0000,,{\pos(1409.625,738.419998)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.24,0:17:26.28,block,,0000,0000,0000,,{\pos(1410.61496,736.199982)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.28,0:17:26.32,block,,0000,0000,0000,,{\pos(1410.495026,733.980011)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.32,0:17:26.36,block,,0000,0000,0000,,{\pos(1409.475037,731.759995)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.36,0:17:26.40,block,,0000,0000,0000,,{\pos(1409.414978,729.539978)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.40,0:17:26.45,block,,0000,0000,0000,,{\pos(1410.420044,727.320007)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.45,0:17:30.24,Chuj,,0000,0000,0000,,{\fad(200,200)\move(1746,99,1548,37.5,0,3776)}Eye
+Dialogue: 0,0:17:26.45,0:17:26.49,block,,0000,0000,0000,,{\pos(1410.660004,725.099991)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.49,0:17:26.53,block,,0000,0000,0000,,{\pos(1409.699982,722.88002)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.53,0:17:26.57,block,,0000,0000,0000,,{\pos(1409.280029,720.660004)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.57,0:17:26.61,block,,0000,0000,0000,,{\pos(1410.164978,718.439987)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.61,0:17:26.66,block,,0000,0000,0000,,{\pos(1410.75,716.220016)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.66,0:17:26.70,block,,0000,0000,0000,,{\pos(1409.969971,714)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.70,0:17:26.74,block,,0000,0000,0000,,{\pos(1409.25,711.779984)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.74,0:17:26.78,block,,0000,0000,0000,,{\pos(1409.894989,709.560013)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.78,0:17:26.82,block,,0000,0000,0000,,{\alpha&19&}{\pos(1410.734985,707.339996)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.82,0:17:26.86,block,,0000,0000,0000,,{\alpha&32&}{\pos(1410.23996,705.11998)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.86,0:17:26.91,block,,0000,0000,0000,,{\alpha&4B&}{\pos(1409.309967,702.900009)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.91,0:17:26.95,block,,0000,0000,0000,,{\alpha&64&}{\pos(1409.640015,700.679993)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.95,0:17:26.99,block,,0000,0000,0000,,{\alpha&7D&}{\pos(1410.61496,698.460022)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:26.99,0:17:27.03,block,,0000,0000,0000,,{\alpha&96&}{\pos(1410.480011,696.240005)\fnFawn Script\fs60}Weight
+Dialogue: 10,0:17:27.03,0:17:30.30,Default,,0000,0000,0000,,I didn't want to make the injury too obvious,
+Dialogue: 0,0:17:27.03,0:17:27.07,block,,0000,0000,0000,,{\alpha&AF&}{\pos(1409.460022,694.019989)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:27.07,0:17:27.11,block,,0000,0000,0000,,{\alpha&C8&}{\pos(1409.429993,691.800018)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:27.11,0:17:27.16,block,,0000,0000,0000,,{\alpha&E1&}{\pos(1410.434967,689.580002)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:27.16,0:17:27.20,block,,0000,0000,0000,,{\alpha&FA&}{\pos(1410.644989,687.359985)\fnFawn Script\fs60}Weight
+Dialogue: 0,0:17:27.50,0:17:30.66,zuo,,0000,0000,0000,,{\fad(200,200)\c&HFFFFFF&\alpha&32&\move(1632,690,1716,669,0,3160)}Monster
